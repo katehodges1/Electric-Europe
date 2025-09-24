@@ -1,0 +1,9 @@
+# Ignore YAML config files
+*.yml
+
+# Ignore data folder
+data/
+
+# Ignore specific scripts
+scripts/LEARNING-NLP-regressions.ipyng
+scripts/PJDP7 - MESSYUNCUTEVSs in Europe copy.ipynb
